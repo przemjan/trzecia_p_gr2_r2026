@@ -27,5 +27,8 @@ public class Zmienne {
         System.out.print("Mój string: " + napis);
 
         boolean sun = true; //false
+
+        // Podstawowa składnia i struktury wybranych języków programowania.
+        // Proste algorytmy.
     }
 }

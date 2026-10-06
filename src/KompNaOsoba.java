@@ -9,3 +9,4 @@ public class KompNaOsoba {
                 kompNaOsoba);
     }
 }
+// 	https://github.com/przemjan/trzecia_p_gr2_r2026.git
